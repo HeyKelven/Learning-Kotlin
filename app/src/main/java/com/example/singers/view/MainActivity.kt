@@ -1,7 +1,8 @@
-package com.example.singers
+package com.example.singers.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.singers.R
 
 class MainActivity : AppCompatActivity() {
 
